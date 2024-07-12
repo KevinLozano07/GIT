@@ -1,3 +1,5 @@
+#Elaborar un programa que lea 2 numeros 
+#y saque su promedio
 N1 = int(input("Ingrse el primero numero: "))
 
 
